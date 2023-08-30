@@ -1,1 +1,1 @@
-# Hier finden sie die kompletten Projektdateien zu den Codebeispielen im Buch STM32-Mikrocontroller Programmieren in C
+# Here you can find the complete project files for the code examples in the book STM32 Microcontroller Programming in C
